@@ -9,7 +9,7 @@ class Vehicle
 
 class Bike : Vehicle 
 {
-  public string modelName = "Mustang"; 
+  public string modelName = "KTMXS"; 
 }
 
 class Inheritance

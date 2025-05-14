@@ -7,14 +7,30 @@
   public static void Main(string[] args)
   {
 
-
+ Console.WriteLine("Inheritance");
 Inheritance.MyMethod();
-  //  Console.WriteLine(CSharpMethods.MyMethod(3));
+
+
+  
+    Console.WriteLine(CSharpMethods.MyMethod(3));
+
    CSharpoops.myclassobject();
 
    Classmembers.myclassobject();
+  
+   Encapsulation.ShowName();
 
-   Encapsulation.MyMethod();
+
+   Polymorphism.MyAnimal();
+
+
+Abstraction.Appliance();
+
+Interface.Mobile();
+
+Enum.Size();
+
+Exception.Filename();
 
     // Console.WriteLine("Hello World");
     // int myNum = 5;

@@ -16,7 +16,7 @@ class Person
 
 internal class Encapsulation
 {
-    public static void  MyMethod()
+    public static void ShowName()
     { 
         Person p = new ();
         p.Name ="Laim";
